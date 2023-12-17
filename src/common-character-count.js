@@ -23,8 +23,6 @@ function getCommonCharacterCount(s1, s2) {
   return commonCharsArr.length;
 }
 
-console.log(getCommonCharacterCount('', 'abc'));
-
 module.exports = {
   getCommonCharacterCount
 };
