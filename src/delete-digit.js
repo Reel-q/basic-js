@@ -23,7 +23,6 @@ function deleteDigit(n) {
   return Math.max(...digitsArr);
 }
 
-console.log(deleteDigit(152));
 
 module.exports = {
   deleteDigit

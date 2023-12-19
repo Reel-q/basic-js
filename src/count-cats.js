@@ -29,6 +29,7 @@ function countCats(matrix) {
   return answer;
 }
 
+
 module.exports = {
   countCats
 };
